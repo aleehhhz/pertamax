@@ -1,0 +1,44 @@
+* {
+    background-color: #ffc5d3;
+    font-family: Georgia;
+}
+
+.share {
+    padding: 0px 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .share a {
+    background: #b0c1db;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+.banner {
+    background-color: whitesmoke;
+    background-position: center;
+    height: 30px;
+}
+
+  h1 {
+    text-align: center;
+  }
+  #banner .content h2 {
+    background-color: whitesmoke;
+    position: center;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+
+
+  }
+
+  

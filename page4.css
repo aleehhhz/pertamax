@@ -1,0 +1,28 @@
+* {
+    background-color: #ffc5d3;
+    font-family: Georgia;
+  }
+  
+  
+  .banner {
+    background-color: whitesmoke;
+    background-position: center;
+    height: 30px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: medium;
+  }
+  #banner .content h2 {
+    background-color: whitesmoke;
+    position: center;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 100px 100px 100px;
+  
+  
+  }
+  
